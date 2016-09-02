@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:dslv="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/project_screen_root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white" >
+
+    <RelativeLayout
+        android:id="@+id/project_title_holder"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:background="@color/silver"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin" >
+
+        <ViewSwitcher
+            android:id="@+id/edit_icon_switcher"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_alignParentRight="true" >
+
+            <ImageButton
+                android:id="@+id/edit_project_title_button"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:background="@color/silver"
+                android:contentDescription="@string/cancel"
+                android:src="@drawable/ic_action_edit" />
+
+            <ImageButton
+                android:id="@+id/save_project_title_button"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:background="@color/silver"
+                android:contentDescription="@string/add"
+                android:src="@drawable/ic_action_accept" />
+        </ViewSwitcher>
+
+        <ViewSwitcher
+            android:id="@+id/project_title_switcher"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_toLeftOf="@id/edit_icon_switcher" >
+
+            <TextView
+                android:id="@+id/project_title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="@color/white"
+                android:textSize="25sp"
+                android:hint="@string/project_title" />
+
+            <EditText
+                android:id="@+id/project_title_edit_view"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/project_title"
+                android:imeOptions="actionDone"
+                android:inputType="textCapSentences"
+                android:maxLength="30"
+                android:padding="10dp"
+                android:selectAllOnFocus="true"
+                android:singleLine="true"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textSize="24sp" />
+        </ViewSwitcher>
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/project_description_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/black"
+        android:layout_below="@+id/project_title_holder"
+        android:weightSum="1.0"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/project_description"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@color/grey"
+            android:gravity="center"
+            android:text="@string/project_overview"
+            android:textSize="20sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/project_button_container"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/black"
+        android:layout_below="@+id/project_description_container"
+        android:weightSum="1.0"
+        android:layout_marginTop="5dp"
+        android:longClickable="false">
+
+        <RadioGroup
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:text="@string/stepLabel"
+                android:button="@android:color/transparent"
+                android:id="@+id/stepToggleButton"
+                android:layout_weight="0.5"
+                android:background="@drawable/tab_label_step_button"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:textColor="@color/black"
+                android:textSize="@dimen/tab_toggle_text_size"
+                android:gravity="center"
+                android:checked="true"
+                android:clickable="true" />
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:text="@string/labelLabel"
+                android:button="@android:color/transparent"
+                android:id="@+id/labelToggleButton"
+                android:layout_weight="0.5"
+                android:background="@drawable/tab_label_step_button"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:textColor="@color/black"
+                android:textSize="@dimen/tab_toggle_text_size"
+                android:gravity="center"
+                android:checked="false"
+                android:clickable="true" />
+        </RadioGroup>
+    </LinearLayout>
+
+   <!-- android:layout_above="@+id/project_help" -->
+
+    <com.mobeta.android.dslv.DragSortListView
+        android:id="@+id/project_steps_list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:animateLayoutChanges="true"
+        android:background="@color/white"
+        android:dividerHeight="0dp"
+        android:drawSelectorOnTop="true"
+        android:paddingBottom="0dp"
+        android:paddingTop="0dp"
+        dslv:collapsed_height="10dp"
+        dslv:drag_enabled="true"
+        dslv:drag_handle_id="@drawable/handle_icon"
+        dslv:drag_scroll_start="0.33"
+        dslv:drag_start_mode="onMove"
+        dslv:float_alpha="0.6"
+        dslv:max_drag_scroll_speed="0.5"
+        dslv:remove_enabled="false"
+        dslv:remove_mode="flingRemove"
+        dslv:slide_shuffle_speed="0.3"
+        dslv:sort_enabled="true"
+        dslv:track_drag_sort="false"
+        dslv:use_default_controller="true"
+        android:layout_marginLeft="0dp"
+        android:layout_marginRight="0dp"
+        android:layout_above="@+id/project_screen_new_step"
+        android:layout_below="@+id/project_button_container" />
+
+    <!--<TextView
+        android:id="@+id/project_help"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/project_screen_new_step"
+        android:gravity="center" /> -->
+
+    <Button
+        android:id="@+id/project_screen_new_step"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/custom_button_blue"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:gravity="center"
+        android:text="@string/add_new_step"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/white"
+        android:textSize="@dimen/main_button_text_size" >
+    </Button>
+    
+    <WebView 
+        android:id="@+id/webview"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:visibility="gone"
+        android:padding="0dp"
+        />
+
+   <ProgressBar
+        android:id="@+id/webview_progress"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone" 
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_centerVertical="true"
+        android:padding="2dip"
+        android:layout_alignParentTop="true"
+    />
+</RelativeLayout>

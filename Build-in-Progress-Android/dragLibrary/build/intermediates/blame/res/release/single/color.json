@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/res/merged/release/color/abs__primary_text_disable_only_holo_light.xml",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/color/abs__primary_text_disable_only_holo_light.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/dragLibrary/build/intermediates/res/merged/release/color/abs__primary_text_disable_only_holo_dark.xml",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/color/abs__primary_text_disable_only_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/dragLibrary/build/intermediates/res/merged/release/color/abs__primary_text_disable_only_holo_light.xml",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/color/abs__primary_text_disable_only_holo_light.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/res/merged/release/color/abs__primary_text_holo_light.xml",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/color/abs__primary_text_holo_light.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/res/merged/release/color/abs__primary_text_disable_only_holo_dark.xml",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/color/abs__primary_text_disable_only_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/dragLibrary/build/intermediates/res/merged/release/color/abs__primary_text_holo_dark.xml",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/color/abs__primary_text_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/dragLibrary/build/intermediates/res/merged/release/color/abs__primary_text_holo_light.xml",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/color/abs__primary_text_holo_light.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/res/merged/release/color/abs__primary_text_holo_dark.xml",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/color/abs__primary_text_holo_dark.xml"
+    }
+]

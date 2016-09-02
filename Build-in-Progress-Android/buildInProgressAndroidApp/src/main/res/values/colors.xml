@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="whitegrey">#FFF2F2F2</color>
+    <color name="silver">#C0C0C0</color>
+    
+    <color name="grey">#f3f3f3</color>
+    <color name="grey1">#cccccc</color>
+    <color name="darkgrey2">#d3d3d3</color>
+    <color name="grey_transparent">#80000000</color>
+    <color name="grey_light">#F9F9F9</color>
+    <color name="grey_light_tab">#FBFBFB</color>
+    <color name="grey_dark_tab">#ebebeb</color>
+    
+    <color name="blue">#33B5E5</color>
+    <color name="blue1">#99daf2</color>
+    <color name="blue2">#cde7f0</color>
+    
+    <color name='red'>#ff5151 </color>
+    <color name='red1'>#ff8e8e </color>
+    
+    <color name ="black">#000000</color>
+    <color name="darkgrey">#9f9f9f</color>
+    <color name="light_silver">#F0F0F0</color>
+    <color name="snag_callout_color">#F444</color>
+    <color name="delete_color_filter">#A5FF0000</color>
+    
+    <color name="transparent">#55000000</color>
+    
+
+    
+</resources>

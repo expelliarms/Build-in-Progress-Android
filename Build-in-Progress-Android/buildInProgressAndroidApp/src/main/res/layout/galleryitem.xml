@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <ImageView
+        android:id="@+id/thumbImage_gallery_item"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:contentDescription="@string/add"
+        android:minHeight="90dp"
+        android:padding="2dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/device_access_camera" />
+
+    <CheckBox
+        android:id="@+id/itemCheckBox_gallery_item"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginBottom="2dp"
+        android:layout_marginRight="4dp"
+        android:layout_marginTop="4dp"
+        android:button="@drawable/custom_checkbox" />
+
+    <ImageView
+        android:id="@+id/videoPlayIcon_gallery_item"
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:layout_centerInParent="true"
+        android:background="@drawable/play_icon"
+        android:contentDescription="@string/BrowseProjects"
+        android:scaleType="fitEnd"
+        android:visibility="gone" />
+
+</RelativeLayout>

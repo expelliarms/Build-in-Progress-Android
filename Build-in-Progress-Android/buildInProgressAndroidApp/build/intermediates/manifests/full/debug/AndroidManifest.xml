@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.bip_public_android"
+    android:installLocation="auto"
+    android:versionCode="1"
+    android:versionName="1.0"
+    android:windowSoftInputMode="adjustPan" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="19" />
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CACHE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <application
+        android:allowBackup="true"
+        android:hardwareAccelerated="true"
+        android:label="@string/app_name"
+        android:theme="@style/SampleTheme.Light" >
+        <activity
+            android:name="com.bip_public_android.LoginActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.bip_public_android.MenuScreen"
+            android:label="@string/title_activity_menu_screen"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.bip_public_android.OverviewDisplay"
+            android:label="@string/title_activity_menu_screen"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.bip_public_android.Register"
+            android:label="@string/title_activity_register"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.bip_public_android.SplashScreen"
+            android:label="@string/short_app_name"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.bip_public_android.CustomCamera"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/clearActionBar"
+            android:windowSoftInputMode="stateHidden" >
+        </activity>
+        <activity
+            android:name="com.bip_public_android.AllProjectDisplay"
+            android:label="@string/title_activity_menu_screen"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.bip_public_android.CustomizedGallery"
+            android:label="@string/title_activity_menu_screen"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.bip_public_android.MediaPreview"
+            android:label="@string/title_activity_menu_screen"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.bip_public_android.ProjectDisplay"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/title_activity_project_screen"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.bip_public_android.StepDisplay"
+            android:label="@string/title_activity_step_display"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.bip_public_android.LabelDisplay"
+            android:label="@string/title_activity_label_display"
+            android:screenOrientation="portrait" >
+        </activity>
+
+        <!--
+        <activity
+            android:name="com.bip_test.bip_public_android.ShareActivity"
+            android:label="@string/title_activity_share"
+          	android:theme="@android:style/Theme.Holo.Light.Dialog"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.SEND" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <data android:mimeType="image/*" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.SEND_MULTIPLE" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <data android:mimeType="image/*" />
+            </intent-filter>
+        </activity>
+        -->
+
+    </application>
+
+</manifest>

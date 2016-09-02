@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_action_accept.png",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable-ldpi/ic_action_accept.png"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_action_accept_highlight_3.png",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable-ldpi/ic_action_accept_highlight_3.png"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_action_accept.png",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable-ldpi/ic_action_accept.png"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_action_accept_highlight_3.png",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable-ldpi/ic_action_accept_highlight_3.png"
+    }
+]

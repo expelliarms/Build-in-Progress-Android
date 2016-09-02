@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/wrapper"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <EditText
+        android:id="@+id/project_name_post_project"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginBottom="@dimen/button_marginB"
+        android:layout_marginLeft="@dimen/button_marginL"
+        android:layout_marginRight="@dimen/button_marginR"
+        android:layout_marginTop="@dimen/button_marginT"
+        android:background="@color/grey"
+        android:hint="Project Title"
+        android:inputType="text"
+        android:padding="10dp"
+        android:textSize="35sp" />
+
+    <LinearLayout
+        android:id="@+id/horizontal_container_post_project"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/project_name_post_project"
+        android:layout_marginLeft="@dimen/button_marginL"
+        android:layout_marginRight="@dimen/button_marginR"
+        android:background="@color/grey" >
+
+        <com.example.helperClass.PictureHorizontalLayout
+            android:id="@+id/myphoto_post_project"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+        </com.example.helperClass.PictureHorizontalLayout>
+
+        <ImageButton
+            android:id="@+id/step_icon_post_project"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_gravity="center"
+            android:layout_margin="@dimen/button_marginL"
+            android:adjustViewBounds="true"
+            android:background="@drawable/custom_button_blue"
+            android:src="@drawable/content_new"
+            android:text="Add Image" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout_project_overview_post_project"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/horizontal_container_post_project"
+        android:layout_marginBottom="@dimen/button_marginB"
+        android:layout_marginLeft="@dimen/button_marginL"
+        android:layout_marginRight="@dimen/button_marginR"
+        android:layout_marginTop="@dimen/button_marginT"
+        android:background="@color/grey"
+        android:orientation="horizontal"
+        android:weightSum="1" >
+
+        <ImageButton
+            android:id="@+id/step_icon_post_project"
+            android:layout_width="28dp"
+            android:layout_height="28dp"
+            android:layout_gravity="center"
+            android:layout_margin="@dimen/button_marginR"
+            android:layout_weight="0.1"
+            android:background="@drawable/handles"
+            android:scaleX=".6"
+            android:scaleY=".6" />
+
+        <!-- Information -->
+
+        <EditText
+            android:id="@+id/step_name_post_project"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_marginTop="@dimen/button_marginT"
+            android:layout_weight="0.80"
+            android:hint="Project Overview" >
+        </EditText>
+
+        <!-- Price -->
+
+
+        <!--
+             <ImageView
+            android:id="@+id/step_image_post_project"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_weight="0.1"
+            android:adjustViewBounds="true"
+            android:padding="8dp"
+            android:src="@drawable/test_image" >
+        </ImageView>
+        -->
+
+
+        <!-- Replaced ImageView with a Button -->
+
+        <Button
+            android:id="@+id/step_image_post_project"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_marginBottom="@dimen/button_marginL"
+            android:layout_marginLeft="@dimen/button_marginL"
+            android:layout_marginRight="@dimen/button_marginR"
+            android:layout_marginTop="@dimen/button_marginT"
+            android:layout_weight="0.1"
+            android:background="@drawable/dotted"
+            android:text="@string/drag_image_here"
+            android:textColor="@color/black"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+    <ScrollView
+        android:id="@+id/scrollView_post_project"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/linearLayout_project_overview_post_project"
+        android:layout_marginLeft="@dimen/button_marginL"
+        android:layout_marginRight="@dimen/button_marginR"
+        android:fillViewport="true" >
+
+        <LinearLayout
+            android:id="@+id/linear_layout_add_step_post_project"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+        </LinearLayout>
+    </ScrollView>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="@dimen/button_marginL"
+        android:layout_marginRight="@dimen/button_marginR"
+        android:weightSum="1" >
+
+        <Button
+            android:id="@+id/add_step_post_project"
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/bottom_button_height"
+            android:layout_marginBottom="@dimen/button_marginB"
+            android:layout_marginRight="@dimen/button_marginR"
+            android:layout_marginTop="@dimen/button_marginT"
+            android:layout_weight="0.5"
+            android:background="@drawable/custom_button_blue"
+            android:drawablePadding="5sp"
+            android:text="Add step"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="@color/white"
+            android:textSize="@dimen/bottom_button_text_size" />
+
+        <Button
+            android:id="@+id/publish_button_post_project"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/bottom_button_height"
+            android:layout_marginBottom="@dimen/button_marginB"
+            android:layout_marginTop="@dimen/button_marginT"
+            android:layout_weight="0.5"
+            android:background="@drawable/custom_button_blue"
+            android:drawablePadding="5sp"
+            android:text="Publish"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="@color/white"
+            android:textSize="@dimen/bottom_button_text_size" />
+<!--      </LinearLayout> -->
+        <!--
+             <Button
+            android:id="@+id/spinner_post_project"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/custom_button_blue"
+            android:textColor="@color/white"
+            android:textSize="25sp"
+            android:text="@string/publish_button" />
+        -->
+    </LinearLayout>
+
+</RelativeLayout>

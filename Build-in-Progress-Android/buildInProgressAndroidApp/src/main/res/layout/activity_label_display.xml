@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ViewSwitcher
+            android:id="@+id/label_name_switcher"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@color/silver" >
+
+            <TextView
+                android:id="@+id/label_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/label_name_hint"
+                android:padding="5dp"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="@color/white"
+                android:textSize="30sp" />
+
+            <EditText
+                android:id="@+id/label_name_edit_view"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:focusable="true"
+                android:hint="@string/label_name_hint"
+                android:inputType="textCapSentences"
+                android:maxLength="30"
+                android:paddingTop="10dp"
+                android:selectAllOnFocus="true"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textSize="29sp" />
+        </ViewSwitcher>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:orientation="vertical"
+            android:minHeight="200dp"
+            android:padding="10dp">
+
+            <TextView
+                android:id="@+id/label_description_container"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/darkgrey"
+                android:padding="@dimen/activity_horizontal_margin"
+                android:text="@string/label_description"
+                android:textColor="@color/white"
+                android:textStyle="bold" />
+
+            <RadioGroup
+                android:layout_width="match_parent"
+                android:layout_height="fill_parent"
+                android:weightSum="1.0"
+                android:id="@+id/label_color_group">
+
+                <RadioButton
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text=""
+                    android:button="@android:color/transparent"
+                    android:id="@+id/label_color_blue"
+                    android:background="@drawable/label_button_blue"
+                    android:layout_margin="5dp"
+                    android:layout_weight="0.25"
+                    android:minHeight="50dp"
+
+                />
+
+
+                <RadioButton
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text=""
+                    android:button="@android:color/transparent"
+                    android:id="@+id/label_color_red"
+                    android:background="@drawable/label_button_red"
+                    android:layout_margin="5dp"
+                    android:minHeight="50dp" />
+
+                <RadioButton
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text=""
+                    android:button="@android:color/transparent"
+                    android:id="@+id/label_color_green"
+                    android:layout_margin="5dp"
+                    android:background="@drawable/label_button_green"
+                    android:minHeight="50dp" />
+
+                <RadioButton
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text=""
+                    android:button="@android:color/transparent"
+                    android:id="@+id/label_color_grey"
+                    android:background="@drawable/label_button_grey"
+                    android:layout_margin="5dp"
+                    android:minHeight="50dp" />
+            </RadioGroup>
+
+        </LinearLayout>
+
+
+        <Button
+            android:id="@+id/delete_label_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/activity_horizontal_margin"
+            android:background="@drawable/custom_button_grey"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="@string/delete_label"
+            android:textColor="@color/black"
+            android:textSize="20sp" >
+        </Button>
+    </LinearLayout>
+
+
+
+</ScrollView>

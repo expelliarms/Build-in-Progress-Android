@@ -1,0 +1,31 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+<!--     <item
+        android:id="@+id/list_view"
+        android:title="@string/list_view"
+    />
+    <item
+        android:id="@+id/map_view"
+        android:title="@string/map_view" /> -->
+    <item
+        android:id="@+id/refresh"
+        android:title="@string/refresh"/>
+    <item
+        android:id ="@+id/edit"
+        android:title="@string/edit"
+        />
+    <item
+        android:id="@+id/save"
+        android:title="@string/save"
+        />
+    <item
+        android:id="@+id/logout"
+        android:title="@string/logout"/>
+    <item
+        android:id="@+id/delete_project"
+        android:title="@string/delete_project"/>
+    <item
+        android:id="@+id/delete_step"
+        android:title="@string/delete_step"/>
+
+</menu>

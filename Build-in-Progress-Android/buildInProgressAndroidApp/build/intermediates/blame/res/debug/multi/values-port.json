@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/values-port/values-port.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 53,
+                    "endOffset": 104
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/values-port/integers.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 53,
+                        "endOffset": 104
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/values-port/values-port.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 53,
+                    "endOffset": 104
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/values-port/integers.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 53,
+                        "endOffset": 104
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:baselineAligned="false"
+    android:orientation="horizontal"
+    android:weightSum="8" >
+
+    <LinearLayout
+        android:layout_width="20dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@color/transparent" >
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_weight="6"
+        android:background="@color/white"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/step_publish_step_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:gravity="left|center_vertical"
+            android:padding="10dp"
+            android:text="@string/stepNameLabel"
+            android:textColor="@color/blue"
+            android:textSize="25sp" />
+
+        <View
+            android:id="@+id/blueline"
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:layout_below="@id/step_publish_step_name"
+            android:background="@color/blue" />
+
+        <RadioGroup
+            android:id="@+id/date_and_time"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_below="@id/blueline"
+            android:background="@color/grey"
+            android:checkedButton="@+id/set_step_time"
+            android:orientation="horizontal"
+            android:weightSum="1" >
+
+            <RadioButton
+                android:id="@+id/set_step_time"
+                style="@style/radio_button_style"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight=".5"
+                android:gravity="center"
+                android:text="@string/pick_time"
+                android:textStyle="bold" >
+            </RadioButton>
+
+            <View
+                android:layout_width="1dp"
+                android:layout_height="30dp"
+                android:layout_gravity="center_vertical"
+                android:background="@color/grey1"
+                android:gravity="center" />
+
+            <RadioButton
+                android:id="@+id/set_step_date"
+                style="@style/radio_button_style"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight=".5"
+                android:gravity="center"
+                android:text="@string/pick_date"
+                android:textStyle="bold" >
+            </RadioButton>
+        </RadioGroup>
+
+        <TextView
+            android:id="@+id/prev_step_date"
+            style="@style/step_info"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/date_and_time" />
+
+        <LinearLayout
+            android:id="@+id/time_pickerholder"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/prev_step_date"
+            android:gravity="center"
+            android:orientation="vertical" >
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/next_step_date"
+            style="@style/step_info"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/time_pickerholder" />
+
+        <LinearLayout
+            style="?android:attr/buttonBarStyle"
+            android:id="@+id/save_cancel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/next_step_date"
+            android:background="@color/grey1"
+            android:paddingTop="1dp"
+            android:weightSum="1" >
+
+            <Button
+                style="?android:attr/buttonBarButtonStyle"
+                android:id="@+id/publish_step_cancel"
+                android:layout_width="0dp"
+                android:layout_height="45dp"
+                android:layout_marginRight="1dp"
+                android:layout_weight=".5"
+                android:background="@color/white"
+                android:paddingBottom="5dp"
+                android:paddingTop="5dp"
+                android:text="@string/cancel"
+                android:textSize="15sp" />
+
+            <Button
+                style="?android:attr/buttonBarButtonStyle"
+                android:id="@+id/publish_step_save"
+                android:layout_width="0dp"
+                android:layout_height="45dp"
+                android:layout_weight=".5"
+                android:background="@color/white"
+                android:paddingBottom="5dp"
+                android:paddingLeft="1dp"
+                android:paddingTop="5dp"
+                android:text="@string/save"
+                android:textSize="15sp" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="20dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@color/transparent" >
+    </LinearLayout>
+
+</LinearLayout>

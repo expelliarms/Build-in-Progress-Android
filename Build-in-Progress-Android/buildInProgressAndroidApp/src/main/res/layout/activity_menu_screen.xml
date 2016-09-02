@@ -1,0 +1,65 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/grey"
+    android:gravity="center_vertical"
+    android:orientation="vertical"
+    tools:context="com.bip_public_android.MenuScreen" >
+
+    <!-- android:id="@+id/camera_menu_screen" -->
+    <!-- android:id="@+id/gallery_menu_screen" -->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/mainprompt"
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_marginBottom="4dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginTop="4dp"
+            android:layout_weight="1"
+            android:background="@color/grey"
+            android:gravity="center_horizontal"
+            android:text="@string/mainprompt"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="@color/black"
+            android:textSize="25sp" />
+
+        <Button
+            android:id="@+id/camera_menu_screen"
+            android:layout_width="fill_parent"
+            android:layout_height="110dp"
+            android:layout_marginBottom="@dimen/button_marginB"
+            android:layout_marginLeft="@dimen/button_marginL"
+            android:layout_marginRight="@dimen/button_marginR"
+            android:layout_marginTop="@dimen/button_marginT"
+            android:background="@drawable/custom_button_blue"
+            android:drawablePadding="5sp"
+            android:drawableTop="@drawable/camera_icon_white"
+            android:text="@string/takePicture"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="@color/white"
+            android:textSize="@dimen/main_button_text_size" />
+
+        <Button
+            android:id="@+id/gallery_menu_screen"
+            android:layout_width="fill_parent"
+            android:layout_height="80dp"
+            android:layout_marginBottom="@dimen/button_marginB"
+            android:layout_marginLeft="@dimen/button_marginL"
+            android:layout_marginRight="@dimen/button_marginR"
+            android:layout_marginTop="@dimen/button_marginT"
+            android:background="@drawable/custom_button_blue"
+            android:text="@string/BrowseProjects"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="@color/white"
+            android:textSize="@dimen/main_button_text_size" />
+    </LinearLayout>
+
+</LinearLayout>

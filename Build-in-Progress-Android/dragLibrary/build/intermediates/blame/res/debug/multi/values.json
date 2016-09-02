@@ -1,0 +1,2801 @@
+[
+    {
+        "outputFile": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 54,
+                    "endOffset": 155
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 222,
+                        "endColumn": 55,
+                        "endOffset": 273
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 160,
+                    "endColumn": 59,
+                    "endOffset": 215
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 278,
+                        "endColumn": 60,
+                        "endOffset": 334
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 220,
+                    "endColumn": 45,
+                    "endOffset": 261
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 339,
+                        "endColumn": 46,
+                        "endOffset": 381
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 266,
+                    "endColumn": 44,
+                    "endOffset": 306
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 386,
+                        "endColumn": 45,
+                        "endOffset": 427
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 311,
+                    "endColumn": 55,
+                    "endOffset": 362
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 432,
+                        "endColumn": 56,
+                        "endOffset": 484
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 367,
+                    "endColumn": 52,
+                    "endOffset": 415
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 489,
+                        "endColumn": 53,
+                        "endOffset": 538
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 420,
+                    "endColumn": 56,
+                    "endOffset": 472
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 659,
+                        "endColumn": 56,
+                        "endOffset": 711
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 477,
+                    "endColumn": 76,
+                    "endOffset": 549
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 716,
+                        "endColumn": 76,
+                        "endOffset": 788
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 554,
+                    "endColumn": 62,
+                    "endOffset": 612
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 910,
+                        "endColumn": 62,
+                        "endOffset": 968
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 617,
+                    "endColumn": 73,
+                    "endOffset": 686
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 973,
+                        "endColumn": 73,
+                        "endOffset": 1042
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 691,
+                    "endColumn": 78,
+                    "endOffset": 765
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1047,
+                        "endColumn": 78,
+                        "endOffset": 1121
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 770,
+                    "endColumn": 60,
+                    "endOffset": 826
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1242,
+                        "endColumn": 60,
+                        "endOffset": 1298
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 831,
+                    "endColumn": 61,
+                    "endOffset": 888
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1420,
+                        "endColumn": 61,
+                        "endOffset": 1477
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 893,
+                    "endColumn": 62,
+                    "endOffset": 951
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1482,
+                        "endColumn": 62,
+                        "endOffset": 1540
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 956,
+                    "endColumn": 77,
+                    "endOffset": 1029
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1545,
+                        "endColumn": 77,
+                        "endOffset": 1618
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1034,
+                    "endColumn": 78,
+                    "endOffset": 1108
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1623,
+                        "endColumn": 78,
+                        "endOffset": 1697
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1113,
+                    "endColumn": 92,
+                    "endOffset": 1201
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1702,
+                        "endColumn": 92,
+                        "endOffset": 1790
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1206,
+                    "endColumn": 92,
+                    "endOffset": 1294
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1795,
+                        "endColumn": 92,
+                        "endOffset": 1883
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 9993,
+                    "endColumn": 62,
+                    "endOffset": 10051
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 472,
+                        "startColumn": 4,
+                        "startOffset": 23169,
+                        "endColumn": 62,
+                        "endOffset": 23227
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 10056,
+                    "endColumn": 68,
+                    "endOffset": 10120
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 473,
+                        "startColumn": 4,
+                        "startOffset": 23232,
+                        "endColumn": 68,
+                        "endOffset": 23296
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 10125,
+                    "endColumn": 69,
+                    "endOffset": 10190
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 474,
+                        "startColumn": 4,
+                        "startOffset": 23301,
+                        "endColumn": 69,
+                        "endOffset": 23366
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 10195,
+                    "endColumn": 65,
+                    "endOffset": 10256
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 475,
+                        "startColumn": 4,
+                        "startOffset": 23371,
+                        "endColumn": 65,
+                        "endOffset": 23432
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 10261,
+                    "endColumn": 66,
+                    "endOffset": 10323
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 476,
+                        "startColumn": 4,
+                        "startOffset": 23437,
+                        "endColumn": 66,
+                        "endOffset": 23499
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 10328,
+                    "endColumn": 62,
+                    "endOffset": 10386
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 477,
+                        "startColumn": 4,
+                        "startOffset": 23504,
+                        "endColumn": 62,
+                        "endOffset": 23562
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 10391,
+                    "endColumn": 60,
+                    "endOffset": 10447
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 478,
+                        "startColumn": 4,
+                        "startOffset": 23567,
+                        "endColumn": 60,
+                        "endOffset": 23623
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 10452,
+                    "endColumn": 59,
+                    "endOffset": 10507
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 480,
+                        "startColumn": 4,
+                        "startOffset": 23745,
+                        "endColumn": 59,
+                        "endOffset": 23800
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 10512,
+                    "endColumn": 60,
+                    "endOffset": 10568
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 482,
+                        "startColumn": 4,
+                        "startOffset": 23922,
+                        "endColumn": 60,
+                        "endOffset": 23978
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 10573,
+                    "endColumn": 66,
+                    "endOffset": 10635
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 483,
+                        "startColumn": 4,
+                        "startOffset": 23983,
+                        "endColumn": 66,
+                        "endOffset": 24045
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 10640,
+                    "endColumn": 67,
+                    "endOffset": 10703
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 484,
+                        "startColumn": 4,
+                        "startOffset": 24050,
+                        "endColumn": 67,
+                        "endOffset": 24113
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 10708,
+                    "endColumn": 65,
+                    "endOffset": 10769
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 485,
+                        "startColumn": 4,
+                        "startOffset": 24118,
+                        "endColumn": 65,
+                        "endOffset": 24179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 10774,
+                    "endColumn": 64,
+                    "endOffset": 10834
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 486,
+                        "startColumn": 4,
+                        "startOffset": 24184,
+                        "endColumn": 64,
+                        "endOffset": 24244
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 10839,
+                    "endColumn": 53,
+                    "endOffset": 10888
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 488,
+                        "startColumn": 4,
+                        "startOffset": 24363,
+                        "endColumn": 53,
+                        "endOffset": 24412
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 10893,
+                    "endColumn": 55,
+                    "endOffset": 10944
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 489,
+                        "startColumn": 4,
+                        "startOffset": 24417,
+                        "endColumn": 55,
+                        "endOffset": 24468
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 10949,
+                    "endColumn": 38,
+                    "endOffset": 10983
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 490,
+                        "startColumn": 4,
+                        "startOffset": 24473,
+                        "endColumn": 38,
+                        "endOffset": 24507
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 10988,
+                    "endColumn": 51,
+                    "endOffset": 11035
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 491,
+                        "startColumn": 4,
+                        "startOffset": 24512,
+                        "endColumn": 51,
+                        "endOffset": 24559
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 11040,
+                    "endColumn": 53,
+                    "endOffset": 11089
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 492,
+                        "startColumn": 4,
+                        "startOffset": 24564,
+                        "endColumn": 53,
+                        "endOffset": 24613
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 11094,
+                    "endColumn": 36,
+                    "endOffset": 11126
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 493,
+                        "startColumn": 4,
+                        "startOffset": 24618,
+                        "endColumn": 36,
+                        "endOffset": 24650
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 11131,
+                    "endColumn": 55,
+                    "endOffset": 11182
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 495,
+                        "startColumn": 4,
+                        "startOffset": 24772,
+                        "endColumn": 55,
+                        "endOffset": 24823
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 11187,
+                    "endColumn": 74,
+                    "endOffset": 11257
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 497,
+                        "startColumn": 4,
+                        "startOffset": 24946,
+                        "endColumn": 74,
+                        "endOffset": 25016
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 11262,
+                    "endColumn": 70,
+                    "endOffset": 11328
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 498,
+                        "startColumn": 4,
+                        "startOffset": 25021,
+                        "endColumn": 70,
+                        "endOffset": 25087
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 11333,
+                    "endColumn": 78,
+                    "endOffset": 11407
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 499,
+                        "startColumn": 4,
+                        "startOffset": 25092,
+                        "endColumn": 78,
+                        "endOffset": 25166
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 11412,
+                    "endColumn": 54,
+                    "endOffset": 11462
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 500,
+                        "startColumn": 4,
+                        "startOffset": 25171,
+                        "endColumn": 54,
+                        "endOffset": 25221
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 11467,
+                    "endColumn": 73,
+                    "endOffset": 11536
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 501,
+                        "startColumn": 4,
+                        "startOffset": 25226,
+                        "endColumn": 73,
+                        "endOffset": 25295
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 11541,
+                    "endColumn": 93,
+                    "endOffset": 11630
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 502,
+                        "startColumn": 4,
+                        "startOffset": 25300,
+                        "endColumn": 93,
+                        "endOffset": 25389
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 11635,
+                    "endColumn": 73,
+                    "endOffset": 11704
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 503,
+                        "startColumn": 4,
+                        "startOffset": 25394,
+                        "endColumn": 73,
+                        "endOffset": 25463
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 11709,
+                    "endColumn": 74,
+                    "endOffset": 11779
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 504,
+                        "startColumn": 4,
+                        "startOffset": 25468,
+                        "endColumn": 74,
+                        "endOffset": 25538
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 11784,
+                    "endColumn": 69,
+                    "endOffset": 11849
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 505,
+                        "startColumn": 4,
+                        "startOffset": 25543,
+                        "endColumn": 69,
+                        "endOffset": 25608
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 11854,
+                    "endColumn": 75,
+                    "endOffset": 11925
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 506,
+                        "startColumn": 4,
+                        "startOffset": 25613,
+                        "endColumn": 75,
+                        "endOffset": 25684
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 11930,
+                    "endColumn": 74,
+                    "endOffset": 12000
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 507,
+                        "startColumn": 4,
+                        "startOffset": 25689,
+                        "endColumn": 74,
+                        "endOffset": 25759
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 12005,
+                    "endColumn": 74,
+                    "endOffset": 12075
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 508,
+                        "startColumn": 4,
+                        "startOffset": 25764,
+                        "endColumn": 74,
+                        "endOffset": 25834
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 12080,
+                    "endColumn": 146,
+                    "endOffset": 12222
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 509,
+                        "startColumn": 4,
+                        "startOffset": 25839,
+                        "endColumn": 146,
+                        "endOffset": 25981
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 12227,
+                    "endLine": 68,
+                    "endColumn": 12,
+                    "endOffset": 12431
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 511,
+                        "startColumn": 4,
+                        "startOffset": 26103,
+                        "endLine": 514,
+                        "endColumn": 12,
+                        "endOffset": 26307
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 12436,
+                    "endLine": 71,
+                    "endColumn": 12,
+                    "endOffset": 12577
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 516,
+                        "startColumn": 4,
+                        "startOffset": 26429,
+                        "endLine": 518,
+                        "endColumn": 12,
+                        "endOffset": 26570
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 12582,
+                    "endColumn": 80,
+                    "endOffset": 12658
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 520,
+                        "startColumn": 4,
+                        "startOffset": 26576,
+                        "endColumn": 87,
+                        "endOffset": 26659
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 12663,
+                    "endLine": 75,
+                    "endColumn": 12,
+                    "endOffset": 12816
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 522,
+                        "startColumn": 4,
+                        "startOffset": 26665,
+                        "endLine": 524,
+                        "endColumn": 12,
+                        "endOffset": 26818
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 12821,
+                    "endLine": 84,
+                    "endColumn": 12,
+                    "endOffset": 13299
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 526,
+                        "startColumn": 4,
+                        "startOffset": 26940,
+                        "endLine": 534,
+                        "endColumn": 12,
+                        "endOffset": 27418
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 13304,
+                    "endLine": 89,
+                    "endColumn": 12,
+                    "endOffset": 13573
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 536,
+                        "startColumn": 4,
+                        "startOffset": 27424,
+                        "endLine": 540,
+                        "endColumn": 12,
+                        "endOffset": 27693
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 13578,
+                    "endLine": 97,
+                    "endColumn": 12,
+                    "endOffset": 14040
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 542,
+                        "startColumn": 4,
+                        "startOffset": 27699,
+                        "endLine": 549,
+                        "endColumn": 12,
+                        "endOffset": 28161
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 14045,
+                    "endLine": 103,
+                    "endColumn": 12,
+                    "endOffset": 14391
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 551,
+                        "startColumn": 4,
+                        "startOffset": 28167,
+                        "endLine": 556,
+                        "endColumn": 12,
+                        "endOffset": 28513
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 14396,
+                    "endLine": 107,
+                    "endColumn": 12,
+                    "endOffset": 14658
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 558,
+                        "startColumn": 4,
+                        "startOffset": 28519,
+                        "endLine": 561,
+                        "endColumn": 12,
+                        "endOffset": 28781
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 14663,
+                    "endLine": 117,
+                    "endColumn": 12,
+                    "endOffset": 15292
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 563,
+                        "startColumn": 4,
+                        "startOffset": 28787,
+                        "endLine": 572,
+                        "endColumn": 12,
+                        "endOffset": 29416
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 15297,
+                    "endLine": 128,
+                    "endColumn": 12,
+                    "endOffset": 15981
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 574,
+                        "startColumn": 4,
+                        "startOffset": 29422,
+                        "endLine": 584,
+                        "endColumn": 12,
+                        "endOffset": 30106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 15986,
+                    "endColumn": 82,
+                    "endOffset": 16064
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 586,
+                        "startColumn": 4,
+                        "startOffset": 30112,
+                        "endColumn": 83,
+                        "endOffset": 30191
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 16069,
+                    "endColumn": 108,
+                    "endOffset": 16173
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 588,
+                        "startColumn": 4,
+                        "startOffset": 30197,
+                        "endColumn": 109,
+                        "endOffset": 30302
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 16178,
+                    "endLine": 134,
+                    "endColumn": 12,
+                    "endOffset": 16386
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 590,
+                        "startColumn": 4,
+                        "startOffset": 30308,
+                        "endLine": 593,
+                        "endColumn": 12,
+                        "endOffset": 30516
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 135,
+                    "startColumn": 4,
+                    "startOffset": 16391,
+                    "endLine": 137,
+                    "endColumn": 12,
+                    "endOffset": 16517
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 595,
+                        "startColumn": 4,
+                        "startOffset": 30522,
+                        "endLine": 597,
+                        "endColumn": 12,
+                        "endOffset": 30648
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 16522,
+                    "endColumn": 94,
+                    "endOffset": 16612
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 599,
+                        "startColumn": 4,
+                        "startOffset": 30654,
+                        "endColumn": 101,
+                        "endOffset": 30751
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 139,
+                    "startColumn": 4,
+                    "startOffset": 16617,
+                    "endColumn": 128,
+                    "endOffset": 16741
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 601,
+                        "startColumn": 4,
+                        "startOffset": 30757,
+                        "endColumn": 135,
+                        "endOffset": 30888
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 140,
+                    "startColumn": 4,
+                    "startOffset": 16746,
+                    "endColumn": 128,
+                    "endOffset": 16870
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 603,
+                        "startColumn": 4,
+                        "startOffset": 30894,
+                        "endColumn": 135,
+                        "endOffset": 31025
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 141,
+                    "startColumn": 4,
+                    "startOffset": 16875,
+                    "endLine": 145,
+                    "endColumn": 12,
+                    "endOffset": 17147
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 605,
+                        "startColumn": 4,
+                        "startOffset": 31031,
+                        "endLine": 609,
+                        "endColumn": 12,
+                        "endOffset": 31303
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 146,
+                    "startColumn": 4,
+                    "startOffset": 17152,
+                    "endLine": 149,
+                    "endColumn": 12,
+                    "endOffset": 17354
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 611,
+                        "startColumn": 4,
+                        "startOffset": 31309,
+                        "endLine": 614,
+                        "endColumn": 12,
+                        "endOffset": 31511
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 150,
+                    "startColumn": 4,
+                    "startOffset": 17359,
+                    "endLine": 152,
+                    "endColumn": 12,
+                    "endOffset": 17479
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 616,
+                        "startColumn": 4,
+                        "startOffset": 31517,
+                        "endLine": 618,
+                        "endColumn": 12,
+                        "endOffset": 31637
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 153,
+                    "startColumn": 4,
+                    "startOffset": 17484,
+                    "endColumn": 90,
+                    "endOffset": 17570
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 620,
+                        "startColumn": 4,
+                        "startOffset": 31643,
+                        "endColumn": 97,
+                        "endOffset": 31736
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 154,
+                    "startColumn": 4,
+                    "startOffset": 17575,
+                    "endLine": 159,
+                    "endColumn": 12,
+                    "endOffset": 17925
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 622,
+                        "startColumn": 4,
+                        "startOffset": 31742,
+                        "endLine": 627,
+                        "endColumn": 12,
+                        "endOffset": 32092
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 160,
+                    "startColumn": 4,
+                    "startOffset": 17930,
+                    "endLine": 163,
+                    "endColumn": 12,
+                    "endOffset": 18189
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 629,
+                        "startColumn": 4,
+                        "startOffset": 32098,
+                        "endLine": 632,
+                        "endColumn": 12,
+                        "endOffset": 32357
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 164,
+                    "startColumn": 4,
+                    "startOffset": 18194,
+                    "endLine": 167,
+                    "endColumn": 12,
+                    "endOffset": 18466
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 634,
+                        "startColumn": 4,
+                        "startOffset": 32363,
+                        "endLine": 637,
+                        "endColumn": 12,
+                        "endOffset": 32635
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 168,
+                    "startColumn": 4,
+                    "startOffset": 18471,
+                    "endLine": 171,
+                    "endColumn": 12,
+                    "endOffset": 18722
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 639,
+                        "startColumn": 4,
+                        "startOffset": 32641,
+                        "endLine": 642,
+                        "endColumn": 12,
+                        "endOffset": 32892
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 172,
+                    "startColumn": 4,
+                    "startOffset": 18727,
+                    "endLine": 175,
+                    "endColumn": 12,
+                    "endOffset": 18993
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 644,
+                        "startColumn": 4,
+                        "startOffset": 32898,
+                        "endLine": 647,
+                        "endColumn": 12,
+                        "endOffset": 33164
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 176,
+                    "startColumn": 4,
+                    "startOffset": 18998,
+                    "endLine": 179,
+                    "endColumn": 12,
+                    "endOffset": 19258
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 649,
+                        "startColumn": 4,
+                        "startOffset": 33170,
+                        "endLine": 652,
+                        "endColumn": 12,
+                        "endOffset": 33430
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 180,
+                    "startColumn": 4,
+                    "startOffset": 19263,
+                    "endLine": 183,
+                    "endColumn": 12,
+                    "endOffset": 19536
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 654,
+                        "startColumn": 4,
+                        "startOffset": 33436,
+                        "endLine": 657,
+                        "endColumn": 12,
+                        "endOffset": 33709
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 184,
+                    "startColumn": 4,
+                    "startOffset": 19541,
+                    "endLine": 187,
+                    "endColumn": 12,
+                    "endOffset": 19793
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 659,
+                        "startColumn": 4,
+                        "startOffset": 33715,
+                        "endLine": 662,
+                        "endColumn": 12,
+                        "endOffset": 33967
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 188,
+                    "startColumn": 4,
+                    "startOffset": 19798,
+                    "endLine": 191,
+                    "endColumn": 12,
+                    "endOffset": 20065
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 664,
+                        "startColumn": 4,
+                        "startOffset": 33973,
+                        "endLine": 667,
+                        "endColumn": 12,
+                        "endOffset": 34240
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 192,
+                    "startColumn": 4,
+                    "startOffset": 20070,
+                    "endLine": 195,
+                    "endColumn": 12,
+                    "endOffset": 20271
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 669,
+                        "startColumn": 4,
+                        "startOffset": 34246,
+                        "endLine": 672,
+                        "endColumn": 12,
+                        "endOffset": 34447
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 196,
+                    "startColumn": 4,
+                    "startOffset": 20276,
+                    "endLine": 200,
+                    "endColumn": 12,
+                    "endOffset": 20541
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 674,
+                        "startColumn": 4,
+                        "startOffset": 34453,
+                        "endLine": 678,
+                        "endColumn": 12,
+                        "endOffset": 34718
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 201,
+                    "startColumn": 4,
+                    "startOffset": 20546,
+                    "endLine": 203,
+                    "endColumn": 12,
+                    "endOffset": 20699
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 680,
+                        "startColumn": 4,
+                        "startOffset": 34724,
+                        "endLine": 682,
+                        "endColumn": 12,
+                        "endOffset": 34877
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 204,
+                    "startColumn": 4,
+                    "startOffset": 20704,
+                    "endLine": 206,
+                    "endColumn": 12,
+                    "endOffset": 20828
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 684,
+                        "startColumn": 4,
+                        "startOffset": 34883,
+                        "endLine": 686,
+                        "endColumn": 12,
+                        "endOffset": 35007
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 207,
+                    "startColumn": 4,
+                    "startOffset": 20833,
+                    "endLine": 209,
+                    "endColumn": 12,
+                    "endOffset": 20957
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 688,
+                        "startColumn": 4,
+                        "startOffset": 35013,
+                        "endLine": 690,
+                        "endColumn": 12,
+                        "endOffset": 35137
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 210,
+                    "startColumn": 4,
+                    "startOffset": 20962,
+                    "endLine": 214,
+                    "endColumn": 12,
+                    "endOffset": 21224
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 692,
+                        "startColumn": 4,
+                        "startOffset": 35143,
+                        "endLine": 696,
+                        "endColumn": 12,
+                        "endOffset": 35405
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 215,
+                    "startColumn": 4,
+                    "startOffset": 21229,
+                    "endLine": 281,
+                    "endColumn": 12,
+                    "endOffset": 26379
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 698,
+                        "startColumn": 4,
+                        "startOffset": 35527,
+                        "endLine": 764,
+                        "endColumn": 12,
+                        "endOffset": 40677
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 282,
+                    "startColumn": 4,
+                    "startOffset": 26384,
+                    "endLine": 348,
+                    "endColumn": 12,
+                    "endOffset": 31760
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 766,
+                        "startColumn": 4,
+                        "startOffset": 40683,
+                        "endLine": 832,
+                        "endColumn": 12,
+                        "endOffset": 46059
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 349,
+                    "startColumn": 4,
+                    "startOffset": 31765,
+                    "endLine": 382,
+                    "endColumn": 12,
+                    "endOffset": 34654
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 834,
+                        "startColumn": 4,
+                        "startOffset": 46065,
+                        "endLine": 867,
+                        "endColumn": 12,
+                        "endOffset": 48954
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 383,
+                    "startColumn": 4,
+                    "startOffset": 34659,
+                    "endLine": 386,
+                    "endColumn": 12,
+                    "endOffset": 34816
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 869,
+                        "startColumn": 4,
+                        "startOffset": 48960,
+                        "endLine": 872,
+                        "endColumn": 12,
+                        "endOffset": 49117
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 387,
+                    "startColumn": 4,
+                    "startOffset": 34821,
+                    "endLine": 390,
+                    "endColumn": 12,
+                    "endOffset": 34972
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 874,
+                        "startColumn": 4,
+                        "startOffset": 49123,
+                        "endLine": 877,
+                        "endColumn": 12,
+                        "endOffset": 49274
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 391,
+                    "startColumn": 4,
+                    "startOffset": 34977,
+                    "endColumn": 26,
+                    "endOffset": 34999
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 879,
+                        "startColumn": 4,
+                        "startOffset": 49396,
+                        "endColumn": 33,
+                        "endOffset": 49425
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 392,
+                    "startColumn": 4,
+                    "startOffset": 35004,
+                    "endLine": 403,
+                    "endColumn": 12,
+                    "endOffset": 35895
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 881,
+                        "startColumn": 4,
+                        "startOffset": 49431,
+                        "endLine": 892,
+                        "endColumn": 12,
+                        "endOffset": 50322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 404,
+                    "startColumn": 4,
+                    "startOffset": 35900,
+                    "endLine": 415,
+                    "endColumn": 12,
+                    "endOffset": 36779
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 894,
+                        "startColumn": 4,
+                        "startOffset": 50328,
+                        "endLine": 905,
+                        "endColumn": 12,
+                        "endOffset": 51207
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 416,
+                    "startColumn": 4,
+                    "startOffset": 36784,
+                    "endLine": 420,
+                    "endColumn": 12,
+                    "endOffset": 37040
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 907,
+                        "startColumn": 4,
+                        "startOffset": 51213,
+                        "endLine": 911,
+                        "endColumn": 12,
+                        "endOffset": 51469
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 421,
+                    "startColumn": 4,
+                    "startOffset": 37045,
+                    "endLine": 429,
+                    "endColumn": 12,
+                    "endOffset": 37503
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 913,
+                        "startColumn": 4,
+                        "startOffset": 51475,
+                        "endLine": 921,
+                        "endColumn": 12,
+                        "endOffset": 51933
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 430,
+                    "startColumn": 4,
+                    "startOffset": 37508,
+                    "endLine": 435,
+                    "endColumn": 12,
+                    "endOffset": 37840
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 923,
+                        "startColumn": 4,
+                        "startOffset": 51939,
+                        "endLine": 928,
+                        "endColumn": 12,
+                        "endOffset": 52271
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 436,
+                    "startColumn": 4,
+                    "startOffset": 37845,
+                    "endLine": 444,
+                    "endColumn": 12,
+                    "endOffset": 38354
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 930,
+                        "startColumn": 4,
+                        "startOffset": 52277,
+                        "endLine": 938,
+                        "endColumn": 12,
+                        "endOffset": 52786
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 445,
+                    "startColumn": 4,
+                    "startOffset": 38359,
+                    "endLine": 447,
+                    "endColumn": 12,
+                    "endOffset": 38510
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 940,
+                        "startColumn": 4,
+                        "startOffset": 52792,
+                        "endLine": 942,
+                        "endColumn": 12,
+                        "endOffset": 52943
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 448,
+                    "startColumn": 4,
+                    "startOffset": 38515,
+                    "endLine": 452,
+                    "endColumn": 12,
+                    "endOffset": 38844
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 944,
+                        "startColumn": 4,
+                        "startOffset": 52949,
+                        "endLine": 948,
+                        "endColumn": 12,
+                        "endOffset": 53278
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 453,
+                    "startColumn": 4,
+                    "startOffset": 38849,
+                    "endLine": 456,
+                    "endColumn": 12,
+                    "endOffset": 39143
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 950,
+                        "startColumn": 4,
+                        "startOffset": 53284,
+                        "endLine": 953,
+                        "endColumn": 12,
+                        "endOffset": 53578
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 457,
+                    "startColumn": 4,
+                    "startOffset": 39148,
+                    "endColumn": 102,
+                    "endOffset": 39246
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 955,
+                        "startColumn": 4,
+                        "startOffset": 53584,
+                        "endColumn": 109,
+                        "endOffset": 53689
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 458,
+                    "startColumn": 4,
+                    "startOffset": 39251,
+                    "endLine": 463,
+                    "endColumn": 12,
+                    "endOffset": 39584
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 957,
+                        "startColumn": 4,
+                        "startOffset": 53695,
+                        "endLine": 962,
+                        "endColumn": 12,
+                        "endOffset": 54028
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 464,
+                    "startColumn": 4,
+                    "startOffset": 39589,
+                    "endColumn": 101,
+                    "endOffset": 39686
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 964,
+                        "startColumn": 4,
+                        "startOffset": 54034,
+                        "endColumn": 108,
+                        "endOffset": 54138
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 465,
+                    "startColumn": 4,
+                    "startOffset": 39691,
+                    "endLine": 474,
+                    "endColumn": 12,
+                    "endOffset": 40528
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 966,
+                        "startColumn": 4,
+                        "startOffset": 54144,
+                        "endLine": 975,
+                        "endColumn": 12,
+                        "endOffset": 54981
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 475,
+                    "startColumn": 4,
+                    "startOffset": 40533,
+                    "endLine": 486,
+                    "endColumn": 12,
+                    "endOffset": 41396
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 977,
+                        "startColumn": 4,
+                        "startOffset": 54987,
+                        "endLine": 988,
+                        "endColumn": 12,
+                        "endOffset": 55850
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 487,
+                    "startColumn": 4,
+                    "startOffset": 41401,
+                    "endLine": 498,
+                    "endColumn": 12,
+                    "endOffset": 42292
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 990,
+                        "startColumn": 4,
+                        "startOffset": 55856,
+                        "endLine": 1001,
+                        "endColumn": 12,
+                        "endOffset": 56747
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 499,
+                    "startColumn": 4,
+                    "startOffset": 42297,
+                    "endColumn": 100,
+                    "endOffset": 42393
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 1003,
+                        "startColumn": 4,
+                        "startOffset": 56753,
+                        "endColumn": 107,
+                        "endOffset": 56856
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 500,
+                    "startColumn": 4,
+                    "startOffset": 42398,
+                    "endColumn": 66,
+                    "endOffset": 42460
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 1005,
+                        "startColumn": 4,
+                        "startOffset": 56862,
+                        "endColumn": 73,
+                        "endOffset": 56931
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 501,
+                    "startColumn": 4,
+                    "startOffset": 42465,
+                    "endColumn": 102,
+                    "endOffset": 42563
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 1007,
+                        "startColumn": 4,
+                        "startOffset": 56937,
+                        "endColumn": 109,
+                        "endOffset": 57042
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 502,
+                    "startColumn": 4,
+                    "startOffset": 42568,
+                    "endLine": 504,
+                    "endColumn": 12,
+                    "endOffset": 42719
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 1009,
+                        "startColumn": 4,
+                        "startOffset": 57048,
+                        "endLine": 1011,
+                        "endColumn": 12,
+                        "endOffset": 57199
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 505,
+                    "startColumn": 4,
+                    "startOffset": 42724,
+                    "endColumn": 102,
+                    "endOffset": 42822
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 1013,
+                        "startColumn": 4,
+                        "startOffset": 57205,
+                        "endColumn": 109,
+                        "endOffset": 57310
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 506,
+                    "startColumn": 4,
+                    "startOffset": 42827,
+                    "endColumn": 67,
+                    "endOffset": 42890
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 1015,
+                        "startColumn": 4,
+                        "startOffset": 57316,
+                        "endColumn": 74,
+                        "endOffset": 57386
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 507,
+                    "startColumn": 4,
+                    "startOffset": 42895,
+                    "endColumn": 92,
+                    "endOffset": 42983
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 1017,
+                        "startColumn": 4,
+                        "startOffset": 57392,
+                        "endColumn": 99,
+                        "endOffset": 57487
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 508,
+                    "startColumn": 4,
+                    "startOffset": 42988,
+                    "endLine": 510,
+                    "endColumn": 12,
+                    "endOffset": 43146
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 1019,
+                        "startColumn": 4,
+                        "startOffset": 57493,
+                        "endLine": 1021,
+                        "endColumn": 12,
+                        "endOffset": 57651
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 511,
+                    "startColumn": 4,
+                    "startOffset": 43151,
+                    "endLine": 513,
+                    "endColumn": 12,
+                    "endOffset": 43309
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 1023,
+                        "startColumn": 4,
+                        "startOffset": 57657,
+                        "endLine": 1025,
+                        "endColumn": 12,
+                        "endOffset": 57815
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 514,
+                    "startColumn": 4,
+                    "startOffset": 43314,
+                    "endLine": 517,
+                    "endColumn": 12,
+                    "endOffset": 43612
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 1027,
+                        "startColumn": 4,
+                        "startOffset": 57821,
+                        "endLine": 1030,
+                        "endColumn": 12,
+                        "endOffset": 58119
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 518,
+                    "startColumn": 4,
+                    "startOffset": 43617,
+                    "endLine": 521,
+                    "endColumn": 12,
+                    "endOffset": 43941
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 1032,
+                        "startColumn": 4,
+                        "startOffset": 58125,
+                        "endLine": 1035,
+                        "endColumn": 12,
+                        "endOffset": 58449
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 522,
+                    "startColumn": 4,
+                    "startOffset": 43946,
+                    "endLine": 524,
+                    "endColumn": 12,
+                    "endOffset": 44147
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 1037,
+                        "startColumn": 4,
+                        "startOffset": 58455,
+                        "endLine": 1039,
+                        "endColumn": 12,
+                        "endOffset": 58656
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 525,
+                    "startColumn": 4,
+                    "startOffset": 44152,
+                    "endLine": 530,
+                    "endColumn": 12,
+                    "endOffset": 44492
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 1041,
+                        "startColumn": 4,
+                        "startOffset": 58662,
+                        "endLine": 1046,
+                        "endColumn": 12,
+                        "endOffset": 59002
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 531,
+                    "startColumn": 4,
+                    "startOffset": 44497,
+                    "endColumn": 107,
+                    "endOffset": 44600
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 1048,
+                        "startColumn": 4,
+                        "startOffset": 59008,
+                        "endColumn": 114,
+                        "endOffset": 59118
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 532,
+                    "startColumn": 4,
+                    "startOffset": 44605,
+                    "endLine": 538,
+                    "endColumn": 12,
+                    "endOffset": 45070
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 1050,
+                        "startColumn": 4,
+                        "startOffset": 59124,
+                        "endLine": 1056,
+                        "endColumn": 12,
+                        "endOffset": 59589
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 539,
+                    "startColumn": 4,
+                    "startOffset": 45075,
+                    "endLine": 542,
+                    "endColumn": 12,
+                    "endOffset": 45355
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 1058,
+                        "startColumn": 4,
+                        "startOffset": 59595,
+                        "endLine": 1061,
+                        "endColumn": 12,
+                        "endOffset": 59875
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 543,
+                    "startColumn": 4,
+                    "startOffset": 45360,
+                    "endColumn": 98,
+                    "endOffset": 45454
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 1063,
+                        "startColumn": 4,
+                        "startOffset": 59881,
+                        "endColumn": 105,
+                        "endOffset": 59982
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 544,
+                    "startColumn": 4,
+                    "startOffset": 45459,
+                    "endLine": 546,
+                    "endColumn": 12,
+                    "endOffset": 45620
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 1065,
+                        "startColumn": 4,
+                        "startOffset": 59988,
+                        "endLine": 1067,
+                        "endColumn": 12,
+                        "endOffset": 60149
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 547,
+                    "startColumn": 4,
+                    "startOffset": 45625,
+                    "endColumn": 90,
+                    "endOffset": 45711
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 1069,
+                        "startColumn": 4,
+                        "startOffset": 60155,
+                        "endColumn": 97,
+                        "endOffset": 60248
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 548,
+                    "startColumn": 4,
+                    "startOffset": 45716,
+                    "endLine": 550,
+                    "endColumn": 12,
+                    "endOffset": 45935
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 1071,
+                        "startColumn": 4,
+                        "startOffset": 60254,
+                        "endLine": 1073,
+                        "endColumn": 12,
+                        "endOffset": 60473
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 551,
+                    "startColumn": 4,
+                    "startOffset": 45940,
+                    "endLine": 554,
+                    "endColumn": 12,
+                    "endOffset": 46261
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 1075,
+                        "startColumn": 4,
+                        "startOffset": 60479,
+                        "endLine": 1078,
+                        "endColumn": 12,
+                        "endOffset": 60800
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 555,
+                    "startColumn": 4,
+                    "startOffset": 46266,
+                    "endLine": 559,
+                    "endColumn": 12,
+                    "endOffset": 46657
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 1080,
+                        "startColumn": 4,
+                        "startOffset": 60806,
+                        "endLine": 1084,
+                        "endColumn": 12,
+                        "endOffset": 61197
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 560,
+                    "startColumn": 4,
+                    "startOffset": 46662,
+                    "endLine": 566,
+                    "endColumn": 12,
+                    "endOffset": 47119
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 1086,
+                        "startColumn": 4,
+                        "startOffset": 61203,
+                        "endLine": 1092,
+                        "endColumn": 12,
+                        "endOffset": 61660
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 567,
+                    "startColumn": 4,
+                    "startOffset": 47124,
+                    "endColumn": 94,
+                    "endOffset": 47214
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 1094,
+                        "startColumn": 4,
+                        "startOffset": 61666,
+                        "endColumn": 101,
+                        "endOffset": 61763
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 568,
+                    "startColumn": 4,
+                    "startOffset": 47219,
+                    "endColumn": 86,
+                    "endOffset": 47301
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 1096,
+                        "startColumn": 4,
+                        "startOffset": 61769,
+                        "endColumn": 93,
+                        "endOffset": 61858
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 569,
+                    "startColumn": 4,
+                    "startOffset": 47306,
+                    "endColumn": 74,
+                    "endOffset": 47376
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 1098,
+                        "startColumn": 4,
+                        "startOffset": 61864,
+                        "endColumn": 81,
+                        "endOffset": 61941
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 570,
+                    "startColumn": 4,
+                    "startOffset": 47381,
+                    "endLine": 573,
+                    "endColumn": 12,
+                    "endOffset": 47625
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 1100,
+                        "startColumn": 4,
+                        "startOffset": 61947,
+                        "endLine": 1103,
+                        "endColumn": 12,
+                        "endOffset": 62191
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 574,
+                    "startColumn": 4,
+                    "startOffset": 47630,
+                    "endLine": 579,
+                    "endColumn": 12,
+                    "endOffset": 48064
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 1105,
+                        "startColumn": 4,
+                        "startOffset": 62197,
+                        "endLine": 1110,
+                        "endColumn": 12,
+                        "endOffset": 62631
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 580,
+                    "startColumn": 4,
+                    "startOffset": 48069,
+                    "endLine": 583,
+                    "endColumn": 12,
+                    "endOffset": 48382
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 1112,
+                        "startColumn": 4,
+                        "startOffset": 62637,
+                        "endLine": 1115,
+                        "endColumn": 12,
+                        "endOffset": 62950
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 584,
+                    "startColumn": 4,
+                    "startOffset": 48387,
+                    "endLine": 586,
+                    "endColumn": 12,
+                    "endOffset": 48580
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 1117,
+                        "startColumn": 4,
+                        "startOffset": 62956,
+                        "endLine": 1119,
+                        "endColumn": 12,
+                        "endOffset": 63149
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 587,
+                    "startColumn": 4,
+                    "startOffset": 48585,
+                    "endLine": 591,
+                    "endColumn": 12,
+                    "endOffset": 48880
+                },
+                "from": {
+                    "file": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/dragLibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 1121,
+                        "startColumn": 4,
+                        "startOffset": 63155,
+                        "endLine": 1125,
+                        "endColumn": 12,
+                        "endOffset": 63450
+                    }
+                }
+            }
+        ]
+    }
+]

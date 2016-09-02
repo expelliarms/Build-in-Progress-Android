@@ -1,0 +1,43 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.bip_public_android.AllProjectDisplay" >
+
+    <LinearLayout
+        android:id="@+id/no_internet_display"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+    </LinearLayout>
+
+    <GridView
+        android:id="@+id/gridview_all_project_display"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1.0"
+        android:background="@color/light_silver"
+        android:drawSelectorOnTop="true"
+        android:gravity="center"
+        android:horizontalSpacing="5dp"
+        android:numColumns="2"
+        android:scrollbarStyle="outsideOverlay"
+        android:scrollbars="vertical"
+        android:verticalScrollbarPosition="right"
+        android:verticalSpacing="5dp" >
+    </GridView>
+
+    <Button
+        android:id="@+id/add_project_all_project_display"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/custom_button_blue"
+        android:contentDescription="@string/add_project_all_project_display"
+        android:scaleType="fitCenter"
+        android:text="@string/add_project_all_project_display"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/white"
+        android:textSize="@dimen/main_button_text_size" />
+
+</LinearLayout>

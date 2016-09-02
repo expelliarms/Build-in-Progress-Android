@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="left|center_vertical"
+        android:padding="10dp"
+        android:text="@string/add_new_step"
+        android:textColor="@color/blue"
+        android:textSize="25sp" />
+
+    <View
+        android:id="@+id/blueline"
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:background="@color/blue" />
+
+    <EditText
+        android:id="@+id/new_step_edit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/step_name_hint" />
+
+    <LinearLayout
+        android:id="@+id/save_cancel"
+        style="?android:attr/buttonBarStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/grey1"
+        android:paddingTop="1dp"
+        android:weightSum="1" >
+
+        <Button
+            android:id="@+id/new_step_cancel"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="0dp"
+            android:layout_height="45dp"
+            android:layout_marginRight="1dp"
+            android:layout_weight=".5"
+            android:background="@color/white"
+            android:paddingBottom="5dp"
+            android:paddingTop="5dp"
+            android:text="@string/cancel"
+            android:textSize="15sp" />
+
+        <Button
+            android:id="@+id/new_step_ok"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="0dp"
+            android:layout_height="45dp"
+            android:layout_weight=".5"
+            android:background="@color/white"
+            android:paddingBottom="5dp"
+            android:paddingLeft="1dp"
+            android:paddingTop="5dp"
+            android:text="@string/save"
+            android:textSize="15sp" />
+    </LinearLayout>
+
+</LinearLayout>

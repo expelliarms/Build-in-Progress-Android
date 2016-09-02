@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:background="@color/grey" >
+
+    <!-- Information -->
+
+    <TextView
+        android:id="@+id/step_name_step_display"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="5dp"
+        android:layout_toLeftOf="@+id/black_line_step_display"
+        android:layout_toRightOf="@+id/handles_step_display"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:gravity="center_vertical|left"
+        android:hint="@string/project_overview"
+        android:textSize="15sp" >
+    </TextView>
+
+    <View
+        android:id="@+id/black_line_step_display"
+        android:layout_width="1dp"
+        android:layout_height="fill_parent"
+        android:layout_toLeftOf="@+id/step_images_switcher"
+        android:background="@color/black" />
+
+    <HorizontalScrollView
+        android:id="@+id/step_image_scroll_view"
+        android:layout_width="100dp"
+        android:layout_height="65dp"
+        android:layout_alignParentRight="true" >
+
+        <LinearLayout
+            android:id="@+id/step_image_step_display"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:gravity="center"
+            android:minWidth="100dp"
+            android:orientation="horizontal" >
+        </LinearLayout>
+    </HorizontalScrollView>
+
+    <LinearLayout
+        android:id="@+id/step_images_switcher"
+        android:layout_width="100dp"
+        android:layout_height="65dp"
+        android:layout_alignParentRight="true"
+        android:gravity="center"
+        android:visibility="invisible" >
+
+        <Button
+            android:id="@+id/step_image_drag_image"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:background="@drawable/dotted"
+            android:text="@string/drag_image_here"
+            android:textColor="@color/black"
+            android:textSize="12sp" />
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/handles_step_display"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:layout_margin="@dimen/button_marginR"
+        android:background="@drawable/handle_icon"
+        android:contentDescription="@string/add"
+        android:focusable="false"
+        android:focusableInTouchMode="false" />
+
+</RelativeLayout>

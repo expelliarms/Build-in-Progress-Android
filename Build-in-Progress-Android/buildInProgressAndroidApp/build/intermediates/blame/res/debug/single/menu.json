@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/menu/welcome.xml",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/menu/welcome.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/menu/step_context_menu.xml",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/menu/step_context_menu.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/menu/project_context_menu.xml",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/menu/project_context_menu.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/menu/welcome.xml",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/menu/welcome.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/menu/logout.xml",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/menu/logout.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/menu/logout.xml",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/menu/logout.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/menu/project_context_menu.xml",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/menu/project_context_menu.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/menu/step_context_menu.xml",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/menu/step_context_menu.xml"
+    }
+]

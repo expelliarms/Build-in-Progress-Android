@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    android:gravity="left"
+    android:orientation="vertical" >
+    
+    <HorizontalScrollView
+        android:id="@+id/gallery_scroll_view"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:scaleType="fitXY" >
+
+        <com.example.helperClass.PictureHorizontalLayout
+            android:id="@+id/mygallery"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:scaleType="fitXY" >
+        </com.example.helperClass.PictureHorizontalLayout>
+    </HorizontalScrollView>
+
+    <FrameLayout
+        android:id="@+id/camerapreview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/black" 
+        android:layout_centerInParent="true"
+        />   
+    
+    <LinearLayout
+        android:id="@+id/button_holder_customized_cam"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:layout_alignParentBottom="true"
+        android:background="#838B8B"
+        android:gravity="bottom"
+        android:orientation="horizontal"
+        android:weightSum="0.9"
+        >
+
+        <ImageButton
+            android:id="@+id/gallery_customized_camera"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginRight="1dp"
+            android:layout_weight="0.3"
+            android:adjustViewBounds="true"
+            android:background="@null"
+            android:contentDescription="@string/add"
+            android:maxWidth="75dp"
+            android:scaleType="center"
+            android:src="@drawable/ic_action_picture" >
+
+            <!-- android:background="@drawable/custom_button_blue" -->
+
+        </ImageButton>
+
+        <ImageButton
+            android:id="@+id/shutter_customized_camera"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginRight="1dp"
+            android:layout_weight="0.3"
+            android:adjustViewBounds="true"
+            android:background="@drawable/custom_button_blue"
+            android:contentDescription="@string/add"
+            android:maxWidth="75dp"
+            android:scaleType="center"
+            android:src="@drawable/ic_action_camera" >
+        </ImageButton>
+
+        <ImageButton
+            android:id="@+id/video_customized_camera"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="0.3"
+            android:adjustViewBounds="true"
+            android:background="@null"
+            android:contentDescription="@string/add"
+            android:maxWidth="75dp"
+            android:scaleType="center"
+            android:src="@drawable/ic_action_video" >
+
+            <!-- android:background="@drawable/custom_button_blue" -->
+
+        </ImageButton>
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/camera_timer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/button_holder_customized_cam"
+        android:layout_alignParentRight="true"
+        android:padding="15dp"
+        android:text="@string/no_time"
+        android:textColor="@color/red"
+        android:textSize="20sp"
+        android:visibility="invisible" >
+    </TextView>
+
+</RelativeLayout>

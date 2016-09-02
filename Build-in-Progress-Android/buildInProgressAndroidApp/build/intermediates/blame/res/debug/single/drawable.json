@@ -1,0 +1,690 @@
+[
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/ic_launcher.png",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/abs__list_selector_holo_light.xml",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable/abs__list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/abs__list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable/abs__list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/purple_background_button.xml",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/purple_background_button.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/publish_radio_button.xml",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/publish_radio_button.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/shape_droptarget.xml",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/shape_droptarget.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/white_border_1.xml",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/white_border_1.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/ic_action_picture.png",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/ic_action_picture.png"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/left_rounded_rect_selected.xml",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/left_rounded_rect_selected.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/abs__spinner_ab_holo_dark.xml",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable/abs__spinner_ab_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/abs__search_dropdown_dark.xml",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable/abs__search_dropdown_dark.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/ic_action_accept_highlight_2.png",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/ic_action_accept_highlight_2.png"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/abs__progress_medium_holo.xml",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable/abs__progress_medium_holo.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/map_blue.png",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/map_blue.png"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/abs__item_background_holo_dark.xml",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable/abs__item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/publish_radio_button.xml",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/publish_radio_button.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/collaborators_icon.png",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/collaborators_icon.png"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/abs__search_dropdown_dark.xml",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable/abs__search_dropdown_dark.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/refresh.png",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/refresh.png"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/checkbox_false.png",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/checkbox_false.png"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/white_border_1.xml",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/white_border_1.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/abs__textfield_searchview_holo_light.xml",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable/abs__textfield_searchview_holo_light.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/map_blue.png",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/map_blue.png"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/white.png",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/white.png"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/ic_action_discard.png",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/ic_action_discard.png"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/blue_border_text.xml",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/blue_border_text.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/map_white.png",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/map_white.png"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/custom_radio_button.xml",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/custom_radio_button.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/ic_action_camera.png",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/ic_action_camera.png"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/logo.png",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/logo.png"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/ic_action_discard.png",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/ic_action_discard.png"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/abs__list_selector_background_transition_holo_light.xml",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable/abs__list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/abs__textfield_searchview_holo_light.xml",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable/abs__textfield_searchview_holo_light.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/abs__item_background_holo_light.xml",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable/abs__item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/success.png",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/success.png"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/collaborators_icon.png",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/collaborators_icon.png"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/edit.png",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/edit.png"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/ic_action_video.png",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/ic_action_video.png"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/refresh.png",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/refresh.png"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/abs__btn_cab_done_holo_dark.xml",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable/abs__btn_cab_done_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/shape_droptarget.xml",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/shape_droptarget.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/record_icon.png",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/record_icon.png"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/list_blue.png",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/list_blue.png"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/abs__ic_clear_holo_light.xml",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable/abs__ic_clear_holo_light.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/bip_logo.png",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/bip_logo.png"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/label_button_blue.xml",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/label_button_blue.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/map_white.png",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/map_white.png"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/ic_action_overflow.png",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/ic_action_overflow.png"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/label_button_blue.xml",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/label_button_blue.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/ic_action_accept_highlight_2.png",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/ic_action_accept_highlight_2.png"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/checked_radio_button.png",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/checked_radio_button.png"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/simple_circle.xml",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/simple_circle.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/fail.png",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/fail.png"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/gradient_bg.xml",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/gradient_bg.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/ic_action_refresh.png",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/ic_action_refresh.png"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/right_rounded_rect_selected.xml",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/right_rounded_rect_selected.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/abs__activated_background_holo_light.xml",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable/abs__activated_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/abs__tab_indicator_ab_holo.xml",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable/abs__tab_indicator_ab_holo.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/icmpmove.png",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/icmpmove.png"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/abs__activated_background_holo_dark.xml",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable/abs__activated_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/abs__textfield_searchview_right_holo_dark.xml",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable/abs__textfield_searchview_right_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/tab_label_step_button.xml",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/tab_label_step_button.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/white.png",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/white.png"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/ic_launcher.png",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/fail.png",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/fail.png"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/list_white.png",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/list_white.png"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/abs__list_selector_background_transition_holo_light.xml",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable/abs__list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/blue_border_text.xml",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/blue_border_text.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/list_blue.png",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/list_blue.png"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/shape.xml",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/shape.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/black_background_button.xml",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/black_background_button.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/abs__list_selector_holo_light.xml",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable/abs__list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/white_background_button.xml",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/white_background_button.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/ic_action_accept_highlight_3.png",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/ic_action_accept_highlight_3.png"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/ic_action_picture.png",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/ic_action_picture.png"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/red_background_button.xml",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/red_background_button.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/abs__ic_clear_holo_light.xml",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable/abs__ic_clear_holo_light.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/left_rounded_rect_selected.xml",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/left_rounded_rect_selected.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/abs__ic_clear.xml",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable/abs__ic_clear.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/ic_action_accept.png",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/ic_action_accept.png"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/content_new_picture.png",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/content_new_picture.png"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/ic_action_refresh.png",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/ic_action_refresh.png"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/checked_tab_button_with_underline.xml",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/checked_tab_button_with_underline.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/checkbox_true.png",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/checkbox_true.png"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/abs__search_dropdown_light.xml",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable/abs__search_dropdown_light.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/abs__list_selector_holo_dark.xml",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable/abs__list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/checked_radio_button.png",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/checked_radio_button.png"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/checkbox_false.png",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/checkbox_false.png"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/red_background_button.xml",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/red_background_button.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/round_edit_text_bound.xml",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/round_edit_text_bound.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/abs__item_background_holo_light.xml",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable/abs__item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/black_background_button.xml",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/black_background_button.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/abs__activated_background_holo_dark.xml",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable/abs__activated_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/gradient_bg.xml",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/gradient_bg.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/blue_dotted_border.xml",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/blue_dotted_border.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/checkbox_true.png",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/checkbox_true.png"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/abs__activated_background_holo_light.xml",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable/abs__activated_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/yellow_border_image.xml",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/yellow_border_image.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/checked_tab_button_with_underline.xml",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/checked_tab_button_with_underline.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/abs__textfield_searchview_right_holo_light.xml",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable/abs__textfield_searchview_right_holo_light.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/abs__spinner_ab_holo_dark.xml",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable/abs__spinner_ab_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/tab_label_step_button.xml",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/tab_label_step_button.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/ic_action_video.png",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/ic_action_video.png"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/list_white.png",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/list_white.png"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/play_icon.png",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/play_icon.png"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/right_rounded_rect_deselected.xml",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/right_rounded_rect_deselected.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/blue_background_button.xml",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/blue_background_button.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/check.png",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/check.png"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/abs__ic_menu_moreoverflow_holo_light.xml",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable/abs__ic_menu_moreoverflow_holo_light.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/abs__spinner_ab_holo_light.xml",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable/abs__spinner_ab_holo_light.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/round_edit_text_bound.xml",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/round_edit_text_bound.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/abs__list_selector_holo_dark.xml",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable/abs__list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/icmpmove.png",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/icmpmove.png"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/ic_action_accept_green.png",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/ic_action_accept_green.png"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/abs__textfield_searchview_right_holo_dark.xml",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable/abs__textfield_searchview_right_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/abs__item_background_holo_dark.xml",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable/abs__item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/build_in_progress_test_logo.png",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/build_in_progress_test_logo.png"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/custom_radio_button.xml",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/custom_radio_button.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/ic_action_new_picture.png",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/ic_action_new_picture.png"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/abs__spinner_ab_holo_light.xml",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable/abs__spinner_ab_holo_light.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/ic_navigation_forward.png",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/ic_navigation_forward.png"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/ic_action_camera.png",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/ic_action_camera.png"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/yellow_border_image.xml",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/yellow_border_image.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/abs__ic_menu_moreoverflow_holo_dark.xml",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable/abs__ic_menu_moreoverflow_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/ic_action_edit.png",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/ic_action_edit.png"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/ic_action_accept_highlight_3.png",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/ic_action_accept_highlight_3.png"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/abs__search_dropdown_light.xml",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable/abs__search_dropdown_light.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/ic_navigation_forward_highlight.png",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/ic_navigation_forward_highlight.png"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/edit.png",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/edit.png"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/right_rounded_rect_deselected.xml",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/right_rounded_rect_deselected.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/yellow_background_button.xml",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/yellow_background_button.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/ic_action_accept_green.png",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/ic_action_accept_green.png"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/purple_background_button.xml",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/purple_background_button.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/white_background_button.xml",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/white_background_button.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/shape.xml",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/shape.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/left_rounded_rect_deselected.xml",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/left_rounded_rect_deselected.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/record_icon.png",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/record_icon.png"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/test_radio_button.xml",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/test_radio_button.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/blue_background_button.xml",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/blue_background_button.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/abs__ic_menu_moreoverflow_holo_light.xml",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable/abs__ic_menu_moreoverflow_holo_light.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/play_icon.png",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/play_icon.png"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/ic_navigation_forward.png",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/ic_navigation_forward.png"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/abs__btn_cab_done_holo_light.xml",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable/abs__btn_cab_done_holo_light.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/abs__textfield_searchview_holo_dark.xml",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable/abs__textfield_searchview_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/abs__progress_medium_holo.xml",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable/abs__progress_medium_holo.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/abs__progress_horizontal_holo_light.xml",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable/abs__progress_horizontal_holo_light.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/blue_dotted_border.xml",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/blue_dotted_border.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/content_new_picture.png",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/content_new_picture.png"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/abs__list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable/abs__list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/abs__ic_clear.xml",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable/abs__ic_clear.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/ic_action_overflow.png",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/ic_action_overflow.png"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/yellow_background_button.xml",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/yellow_background_button.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/left_rounded_rect_deselected.xml",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/left_rounded_rect_deselected.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/ic_action_new_picture.png",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/ic_action_new_picture.png"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/simple_circle.xml",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/simple_circle.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/abs__ic_menu_moreoverflow_holo_dark.xml",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable/abs__ic_menu_moreoverflow_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/abs__textfield_searchview_holo_dark.xml",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable/abs__textfield_searchview_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/ic_navigation_forward_highlight.png",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/ic_navigation_forward_highlight.png"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/check.png",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/check.png"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/success.png",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/success.png"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/ic_action_edit.png",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/ic_action_edit.png"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/right_rounded_rect_selected.xml",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/right_rounded_rect_selected.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/abs__btn_cab_done_holo_light.xml",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable/abs__btn_cab_done_holo_light.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/abs__progress_horizontal_holo_dark.xml",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable/abs__progress_horizontal_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/abs__progress_horizontal_holo_dark.xml",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable/abs__progress_horizontal_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/ic_action_accept.png",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/ic_action_accept.png"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/abs__tab_indicator_ab_holo.xml",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable/abs__tab_indicator_ab_holo.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/abs__progress_horizontal_holo_light.xml",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable/abs__progress_horizontal_holo_light.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/test_radio_button.xml",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/test_radio_button.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/abs__textfield_searchview_right_holo_light.xml",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable/abs__textfield_searchview_right_holo_light.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/abs__btn_cab_done_holo_dark.xml",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable/abs__btn_cab_done_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/drawable/build_in_progress_logo.png",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/drawable/build_in_progress_logo.png"
+    }
+]

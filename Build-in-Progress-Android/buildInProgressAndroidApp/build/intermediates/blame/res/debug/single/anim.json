@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/anim/fade_in.xml",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/anim/rotate_0.xml",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/anim/rotate_0.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/anim/rotate_90.xml",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/anim/rotate_90.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/anim/fade_in.xml",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/anim/fade_in2.xml",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/anim/fade_in2.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/anim/fade_in2.xml",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/anim/fade_in2.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/anim/custom_anim.xml",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/anim/custom_anim.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/anim/fade_out.xml",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/anim/fade_out.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/anim/rotate_180.xml",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/anim/rotate_180.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/anim/rotate_270.xml",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/anim/rotate_270.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/anim/rotate_270.xml",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/anim/rotate_270.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/anim/fade_out.xml",
+        "source": "/Users/ttseng/Documents/Research/Spin/spin-android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/anim/fade_out.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/anim/rotate_180.xml",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/anim/rotate_180.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/anim/rotate_0.xml",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/anim/rotate_0.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/anim/rotate_90.xml",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/anim/rotate_90.xml"
+    },
+    {
+        "merged": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/build/intermediates/res/merged/debug/anim/custom_anim.xml",
+        "source": "/Users/ttseng/Documents/Build-In-Progress/BiP-Public-Android/Build-in-Progress-Android/buildInProgressAndroidApp/src/main/res/anim/custom_anim.xml"
+    }
+]

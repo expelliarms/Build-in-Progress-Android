@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Build-in-Progress-Android.iml" filepath="$PROJECT_DIR$/Build-in-Progress-Android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buildInProgressAndroidApp/buildInProgressAndroidApp.iml" filepath="$PROJECT_DIR$/buildInProgressAndroidApp/buildInProgressAndroidApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dragLibrary/dragLibrary.iml" filepath="$PROJECT_DIR$/dragLibrary/dragLibrary.iml" />
+    </modules>
+  </component>
+</project>

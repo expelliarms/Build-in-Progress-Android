@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="button_height">10dp</dimen>
+    <dimen name="button_marginL">5dp</dimen>
+    <dimen name="button_marginR">10dp</dimen>
+    <dimen name="button_marginT">4dp</dimen>
+    <dimen name="button_marginB">4dp</dimen>
+    <dimen name="version_size">13pt</dimen>
+    <dimen name="version_spacing">3pt</dimen>
+    <dimen name="main_button_text_size">25sp</dimen>
+    <dimen name="tab_toggle_text_size">12sp</dimen>
+    <dimen name="bottom_button_height">50dp</dimen>
+    <dimen name="bottom_button_text_size">15sp</dimen>
+    <dimen name="project_marginL">1dp</dimen>
+    <dimen name="project_marginR">1dp</dimen>
+    <dimen name="project_marginT">1dp</dimen>
+    <dimen name="project_marginB">1dp</dimen>
+    <dimen name="project_title_text_size">11pt</dimen>
+    <dimen name="activity_horizontal_margin">5dp</dimen>
+
+</resources>

@@ -1,0 +1,178 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:orientation="vertical" >
+
+        <ViewSwitcher
+            android:id="@+id/step_name_switcher"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@color/silver" >
+
+            <TextView
+                android:id="@+id/step_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/step_name_hint"
+                android:padding="5dp"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="@color/white"
+                android:textSize="30sp" />
+
+            <EditText
+                android:id="@+id/step_name_edit_view"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:focusable="true"
+                android:hint="@string/step_name_hint"
+                android:inputType="textCapSentences"
+                android:maxLength="30"
+                android:paddingTop="10dp"
+                android:selectAllOnFocus="true"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textSize="29sp" />
+        </ViewSwitcher>
+
+        <LinearLayout
+            android:id="@+id/step_images_container"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="5dp"
+            android:background="@color/grey"
+            android:orientation="vertical" >
+
+            <HorizontalScrollView
+                android:id="@+id/step_image_horizontal_scroll"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/activity_horizontal_margin"
+                android:animateLayoutChanges="true"> 
+
+                <LinearLayout
+                    android:id="@+id/step_image_holder"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal" >
+                </LinearLayout>
+            </HorizontalScrollView>
+
+            <Button
+                android:id="@+id/step_display_add_photo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/activity_horizontal_margin"
+                android:background="@drawable/custom_button_blue"
+                android:gravity="center"
+                android:padding="5dp"
+                android:text="@string/add_image"
+                android:textColor="@color/white"
+                android:textSize="25sp" >
+            </Button>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/step_description_label"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/darkgrey"
+                android:padding="@dimen/activity_horizontal_margin"
+                android:text="@string/step_description"
+                android:textColor="@color/white"
+                android:textStyle="bold" />
+
+            <ViewSwitcher
+                android:id="@+id/step_description_switcher"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:minHeight="150dp"
+                android:padding="@dimen/activity_horizontal_margin" >
+
+                <TextView
+                    android:id="@+id/step_description"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:padding="10dp"
+                    android:textSize="15sp" />
+
+                <EditText
+                    android:id="@+id/step_description_edit_view"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@color/white"
+                    android:focusable="true"
+                    android:gravity="top"
+                    android:hint="@string/description_hint"
+                    android:inputType="textMultiLine|textCapSentences"
+                    android:padding="10dp"
+                    android:textSize="15sp" />
+            </ViewSwitcher>
+        </LinearLayout>
+
+<!--        <TextView
+            android:id="@+id/step_built"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:background="@color/darkgrey"
+            android:padding="@dimen/activity_horizontal_margin"
+            android:text="@string/built"
+            android:textColor="@color/white"
+            android:textStyle="bold" />
+
+        <RelativeLayout
+            android:id="@+id/last_step_layout"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_margin="@dimen/activity_horizontal_margin"
+            android:paddingLeft="@dimen/activity_horizontal_margin"
+            android:paddingRight="@dimen/activity_horizontal_margin"
+            android:paddingTop="10dp" >
+
+            <CheckBox
+                android:id="@+id/last_step_check_box"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingBottom="5dp" />
+
+            <TextView
+                android:id="@+id/last_step_label"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@id/last_step_check_box"
+                android:paddingRight="10dp"
+                android:paddingTop="5dp"
+                android:text="@string/last_step" />
+        </RelativeLayout>-->
+
+        <Button
+            android:id="@+id/delete_step_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/activity_horizontal_margin"
+            android:background="@drawable/custom_button_grey"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="@string/delete_step"
+            android:textColor="@color/black"
+            android:textSize="20sp" >
+        </Button>
+    </LinearLayout>
+
+</ScrollView>

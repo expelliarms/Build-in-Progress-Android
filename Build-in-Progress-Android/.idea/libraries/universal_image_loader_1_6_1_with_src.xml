@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="universal-image-loader-1.6.1-with-src">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/buildInProgressAndroidApp/libs/universal-image-loader-1.6.1-with-src.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

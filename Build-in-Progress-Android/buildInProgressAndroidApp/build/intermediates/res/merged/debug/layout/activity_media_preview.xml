@@ -1,0 +1,92 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    android:orientation="vertical"
+    tools:context="com.bip_public_android.MediaPreview" >
+
+    <FrameLayout
+        android:id="@+id/media_holder"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/bottom_button_image_preview"
+        android:layout_alignParentTop="true"
+        android:background="@color/black"
+        android:gravity="center" >
+       
+<!--         <TextureView
+            android:id="@+id/s3_video"
+   	        android:layout_width="match_parent"
+       	    android:layout_height="wrap_content"
+           	android:layout_gravity="center"
+           	android:rotation="0"           
+         />-->
+         
+        <FrameLayout
+             android:id="@+id/main_content"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             android:background="@color/black" > 
+             
+             <android.support.v4.view.ViewPager
+    			xmlns:android="http://schemas.android.com/apk/res/android"
+		    	android:id="@+id/view_pager"
+		    	android:layout_width="fill_parent"
+		    	android:layout_height="fill_parent" />
+        </FrameLayout>
+
+    </FrameLayout>
+
+    <ProgressBar
+    	android:id="@+id/media_progress"
+       	style="?android:attr/progressBarStyleLarge"
+      	android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+       	android:layout_centerInParent="true" />
+
+    <LinearLayout
+        android:id="@+id/bottom_button_image_preview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@color/white"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal"
+        android:clickable="true"
+        android:focusable="true"
+        android:descendantFocusability="blocksDescendants" >
+
+        <ImageButton
+            android:id="@+id/delete_imagePreview"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/bottom_button_height"
+            android:layout_marginRight="1dp"
+            android:layout_weight="0.3"
+            android:adjustViewBounds="true"
+            android:background="@drawable/custom_button_blue"
+            android:contentDescription="@string/delete_imagePreview"
+            android:maxHeight="60dp"
+            android:maxWidth="60dp"
+            android:scaleType="fitCenter"
+            android:src="@drawable/ic_action_discard"
+      		android:clickable="true">
+        </ImageButton>
+
+        <ImageButton
+            android:id="@+id/okay_imagePreview"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/bottom_button_height"
+            android:layout_weight="0.3"
+            android:adjustViewBounds="true"
+            android:background="@drawable/custom_button_blue"
+            android:contentDescription="@string/okay_imagePreview"
+            android:maxHeight="60dp"
+            android:maxWidth="60dp"
+            android:scaleType="fitCenter"
+            android:src="@drawable/ic_action_accept_white"
+      		android:clickable="true">
+        </ImageButton>
+    </LinearLayout>
+
+</RelativeLayout>

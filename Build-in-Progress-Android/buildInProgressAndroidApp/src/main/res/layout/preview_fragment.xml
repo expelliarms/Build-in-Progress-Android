@@ -1,0 +1,55 @@
+<!-- VCJ: Changed from RelativeLayout To FrameLayout for swipe view, so
+ I could use the playLocalVideo function -->
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    android:orientation="vertical"
+    tools:context=".PreviewFragment"
+    android:id="@+id/fragment_frame_layout">
+	<ImageView 
+	    android:id="@+id/preview_image"
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"/>
+
+    <!--Need a Texture View for displaying videos that aren't local in the view pager-->
+
+    <TextureView
+        android:id="@+id/s3_video"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:rotation="0"
+        />
+
+    <com.google.android.youtube.player.YouTubeThumbnailView
+        android:id="@+id/ytThumbnailview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+    <FrameLayout
+        android:id="@+id/youtube_holder"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:id="@+id/video_icon2"
+            android:layout_gravity="center"
+            android:focusableInTouchMode="false"
+            android:focusable="false"
+            android:background="@drawable/play_icon"
+            android:contentDescription="@string/share"
+            android:scaleType="fitEnd" />
+    </FrameLayout>
+
+
+    <!--    <VideoView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/preview_video"
+            android:visibility="invisible" />-->
+
+</FrameLayout>

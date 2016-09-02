@@ -1,0 +1,149 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Manifest Merging:
+-----------------
+Your project uses libraries that provide manifests, and your Eclipse
+project did not explicitly turn on manifest merging. In Android Gradle
+projects, manifests are always merged (meaning that contents from your
+libraries' manifests will be merged into the app manifest. If you had
+manually copied contents from library manifests into your app manifest
+you may need to remove these for the app to build correctly.
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+From BuildInProgressAndroidApp:
+* .DS_Store
+* .gitignore
+* .idea/
+* .idea/.name
+* .idea/Build-in-Progress-Android.iml
+* .idea/compiler.xml
+* .idea/copyright/
+* .idea/copyright/profiles_settings.xml
+* .idea/misc.xml
+* .idea/modules.xml
+* .idea/vcs.xml
+* .idea/workspace.xml
+* Android.gitignore
+* ic_launcher-web.png
+* illustrator files/
+* illustrator files/built_icon.ai
+* proguard-project.txt
+From DragLibrary:
+* .gitignore
+* ant.properties
+* build.xml
+* pom.xml
+* proguard-project.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:19.1.0
+
+Replaced Libraries with Dependencies:
+-------------------------------------
+The importer recognized the following library projects as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the source files in your project were of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the library replacement in the import wizard and try
+again:
+
+ABS 4.0 =>
+    com.actionbarsherlock:actionbarsherlock:4.4.0@aar
+    com.android.support:support-v4:19.1.0
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+In DragLibrary:
+* AndroidManifest.xml => dragLibrary/src/main/AndroidManifest.xml
+* assets/ => dragLibrary/src/main/assets
+* res/ => dragLibrary/src/main/res/
+* src/ => dragLibrary/src/main/java/
+In BuildInProgressAndroidApp:
+* AndroidManifest.xml => buildInProgressAndroidApp/src/main/AndroidManifest.xml
+* assets/ => buildInProgressAndroidApp/src/main/java/
+* assets/fonts/Roboto-Black.ttf => buildInProgressAndroidApp/src/main/resources/fonts/Roboto-Black.ttf
+* assets/fonts/Roboto-BlackItalic.ttf => buildInProgressAndroidApp/src/main/resources/fonts/Roboto-BlackItalic.ttf
+* assets/fonts/Roboto-Bold.ttf => buildInProgressAndroidApp/src/main/resources/fonts/Roboto-Bold.ttf
+* assets/fonts/Roboto-BoldCondensed.ttf => buildInProgressAndroidApp/src/main/resources/fonts/Roboto-BoldCondensed.ttf
+* assets/fonts/Roboto-BoldCondensedItalic.ttf => buildInProgressAndroidApp/src/main/resources/fonts/Roboto-BoldCondensedItalic.ttf
+* assets/fonts/Roboto-BoldItalic.ttf => buildInProgressAndroidApp/src/main/resources/fonts/Roboto-BoldItalic.ttf
+* assets/fonts/Roboto-Condensed.ttf => buildInProgressAndroidApp/src/main/resources/fonts/Roboto-Condensed.ttf
+* assets/fonts/Roboto-CondensedItalic.ttf => buildInProgressAndroidApp/src/main/resources/fonts/Roboto-CondensedItalic.ttf
+* assets/fonts/Roboto-Italic.ttf => buildInProgressAndroidApp/src/main/resources/fonts/Roboto-Italic.ttf
+* assets/fonts/Roboto-Light.ttf => buildInProgressAndroidApp/src/main/resources/fonts/Roboto-Light.ttf
+* assets/fonts/Roboto-LightItalic.ttf => buildInProgressAndroidApp/src/main/resources/fonts/Roboto-LightItalic.ttf
+* assets/fonts/Roboto-Medium.ttf => buildInProgressAndroidApp/src/main/resources/fonts/Roboto-Medium.ttf
+* assets/fonts/Roboto-MediumItalic.ttf => buildInProgressAndroidApp/src/main/resources/fonts/Roboto-MediumItalic.ttf
+* assets/fonts/Roboto-Regular.ttf => buildInProgressAndroidApp/src/main/resources/fonts/Roboto-Regular.ttf
+* assets/fonts/Roboto-Thin.ttf => buildInProgressAndroidApp/src/main/resources/fonts/Roboto-Thin.ttf
+* assets/fonts/Roboto-ThinItalic.ttf => buildInProgressAndroidApp/src/main/resources/fonts/Roboto-ThinItalic.ttf
+* libs/YouTubeAndroidPlayerApi.jar => buildInProgressAndroidApp/libs/YouTubeAndroidPlayerApi.jar
+* libs/apache-mime4j-core-0.7.2.jar => buildInProgressAndroidApp/libs/apache-mime4j-core-0.7.2.jar
+* libs/armeabi-v7a/libavcodec.so => buildInProgressAndroidApp/src/main/jniLibs/armeabi-v7a/libavcodec.so
+* libs/armeabi-v7a/libavformat.so => buildInProgressAndroidApp/src/main/jniLibs/armeabi-v7a/libavformat.so
+* libs/armeabi-v7a/libavutil.so => buildInProgressAndroidApp/src/main/jniLibs/armeabi-v7a/libavutil.so
+* libs/armeabi-v7a/libffmpeg_mediametadataretriever_jni.so => buildInProgressAndroidApp/src/main/jniLibs/armeabi-v7a/libffmpeg_mediametadataretriever_jni.so
+* libs/armeabi-v7a/libswscale.so => buildInProgressAndroidApp/src/main/jniLibs/armeabi-v7a/libswscale.so
+* libs/armeabi/libavcodec.so => buildInProgressAndroidApp/src/main/jniLibs/armeabi/libavcodec.so
+* libs/armeabi/libavformat.so => buildInProgressAndroidApp/src/main/jniLibs/armeabi/libavformat.so
+* libs/armeabi/libavutil.so => buildInProgressAndroidApp/src/main/jniLibs/armeabi/libavutil.so
+* libs/armeabi/libffmpeg_mediametadataretriever_jni.so => buildInProgressAndroidApp/src/main/jniLibs/armeabi/libffmpeg_mediametadataretriever_jni.so
+* libs/armeabi/libswscale.so => buildInProgressAndroidApp/src/main/jniLibs/armeabi/libswscale.so
+* libs/commons-io-2.4.jar => buildInProgressAndroidApp/libs/commons-io-2.4.jar
+* libs/fmmr.jar => buildInProgressAndroidApp/libs/fmmr.jar
+* libs/httpclient-4.2.5.jar => buildInProgressAndroidApp/libs/httpclient-4.2.5.jar
+* libs/httpcore-4.2.4.jar => buildInProgressAndroidApp/libs/httpcore-4.2.4.jar
+* libs/httpmime-4.2.5.jar => buildInProgressAndroidApp/libs/httpmime-4.2.5.jar
+* libs/jsoup-1.7.2.jar => buildInProgressAndroidApp/libs/jsoup-1.7.2.jar
+* libs/mips/libavcodec.so => buildInProgressAndroidApp/src/main/jniLibs/mips/libavcodec.so
+* libs/mips/libavformat.so => buildInProgressAndroidApp/src/main/jniLibs/mips/libavformat.so
+* libs/mips/libavutil.so => buildInProgressAndroidApp/src/main/jniLibs/mips/libavutil.so
+* libs/mips/libffmpeg_mediametadataretriever_jni.so => buildInProgressAndroidApp/src/main/jniLibs/mips/libffmpeg_mediametadataretriever_jni.so
+* libs/mips/libswscale.so => buildInProgressAndroidApp/src/main/jniLibs/mips/libswscale.so
+* libs/universal-image-loader-1.6.1-with-src.jar => buildInProgressAndroidApp/libs/universal-image-loader-1.6.1-with-src.jar
+* libs/x86/libavcodec.so => buildInProgressAndroidApp/src/main/jniLibs/x86/libavcodec.so
+* libs/x86/libavformat.so => buildInProgressAndroidApp/src/main/jniLibs/x86/libavformat.so
+* libs/x86/libavutil.so => buildInProgressAndroidApp/src/main/jniLibs/x86/libavutil.so
+* libs/x86/libffmpeg_mediametadataretriever_jni.so => buildInProgressAndroidApp/src/main/jniLibs/x86/libffmpeg_mediametadataretriever_jni.so
+* libs/x86/libswscale.so => buildInProgressAndroidApp/src/main/jniLibs/x86/libswscale.so
+* lint.xml => buildInProgressAndroidApp/lint.xml
+* res/ => buildInProgressAndroidApp/src/main/res/
+* src/ => buildInProgressAndroidApp/src/main/java/
+* src/.DS_Store => buildInProgressAndroidApp/src/main/resources/.DS_Store
+* src/com/.DS_Store => buildInProgressAndroidApp/src/main/resources/com/.DS_Store
+* src/com//activities/test => buildInProgressAndroidApp/src/main/resources/com//activities/test
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

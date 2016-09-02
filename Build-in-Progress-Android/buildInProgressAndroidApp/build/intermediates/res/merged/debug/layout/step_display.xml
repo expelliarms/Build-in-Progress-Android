@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="5dp"
+    android:gravity="center"
+    android:orientation="horizontal"
+    android:padding="3dp"
+    android:weightSum="1" >
+
+    <!-- Information -->
+
+    <TextView
+        android:id="@+id/step_name_step_display"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="15dp"
+        android:layout_weight=".83"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:gravity="center_vertical|left"
+        android:hint="@string/project_overview"
+        android:maxLines="1"
+        android:textSize="15sp" >
+    </TextView>
+
+    
+    <HorizontalScrollView
+        android:id="@+id/step_image_scroll_view"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:layout_weight=".17" >
+
+        <LinearLayout
+            android:id="@+id/step_image_step_display"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="right"
+            android:orientation="horizontal" >
+        </LinearLayout>
+    </HorizontalScrollView>
+    
+</LinearLayout>
